@@ -1,0 +1,9 @@
+TODO
+- Industrialize and externalize docker file.
+- Remove SNAPSHOT from jar created.
+- Rr-build build.gradle
+- Login autonomous in aws cli
+- small pipeline build including push.
+- install kubernates
+- secure through okta
+- implement api-gateway
